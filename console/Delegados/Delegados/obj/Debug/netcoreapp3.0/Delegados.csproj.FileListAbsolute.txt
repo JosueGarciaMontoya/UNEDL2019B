@@ -1,0 +1,3 @@
+C:\Users\josue\UNEDL2019B\console\Delegados\Delegados\obj\Debug\netcoreapp3.0\Delegados.csprojAssemblyReference.cache
+C:\Users\josue\UNEDL2019B\console\Delegados\Delegados\obj\Debug\netcoreapp3.0\Delegados.AssemblyInfoInputs.cache
+C:\Users\josue\UNEDL2019B\console\Delegados\Delegados\obj\Debug\netcoreapp3.0\Delegados.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\bin\Debug\ExamenTaller2doParcial.exe.config
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\bin\Debug\ExamenTaller2doParcial.exe
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\bin\Debug\ExamenTaller2doParcial.pdb
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.Form1.resources
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.Properties.Resources.resources
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.exe
+C:\Users\josue\source\repos\ExamenTaller2doParcial\ExamenTaller2doParcial\obj\Debug\ExamenTaller2doParcial.pdb
