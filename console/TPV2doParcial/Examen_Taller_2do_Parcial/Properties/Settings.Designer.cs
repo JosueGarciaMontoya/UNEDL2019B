@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ExamenTaller2doParcial.Properties
+namespace Examen_Taller_2do_Parcial.Properties
 {
 
 
