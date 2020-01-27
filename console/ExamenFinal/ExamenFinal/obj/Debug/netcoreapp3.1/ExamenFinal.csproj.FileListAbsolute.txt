@@ -1,0 +1,11 @@
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.exe
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.deps.json
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.json
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.runtimeconfig.dev.json
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\bin\Debug\netcoreapp3.1\ExamenFinal.pdb
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csprojAssemblyReference.cache
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfoInputs.cache
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfo.cs
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.dll
+C:\Users\josue\UNEDL2019B\console\ExamenFinal\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.pdb
