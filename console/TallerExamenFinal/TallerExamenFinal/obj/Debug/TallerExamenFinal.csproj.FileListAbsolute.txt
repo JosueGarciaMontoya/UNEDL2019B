@@ -1,0 +1,9 @@
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\bin\Debug\TallerExamenFinal.exe.config
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\bin\Debug\TallerExamenFinal.exe
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\bin\Debug\TallerExamenFinal.pdb
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.Form1.resources
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.Properties.Resources.resources
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.csproj.GenerateResource.cache
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.exe
+C:\Users\josue\source\repos\TallerExamenFinal\TallerExamenFinal\obj\Debug\TallerExamenFinal.pdb
